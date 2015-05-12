@@ -1,6 +1,8 @@
 # gradlescript
 Shell script for generating a gradle java project, with a simple css skin. This may serve as a startingpoint when trying JavaFX.
 
+![ScreenShot](application.png)
+
 Note: This script might become obsolete depending on the state of [Gradle Build Init Plugin] (https://gradle.org/docs/current/userguide/build_init_plugin.html)
 
 ```Usage: ./gradlescript myproject```
