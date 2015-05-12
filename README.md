@@ -9,6 +9,14 @@ to run the application:
 
 ```cd myproject && gradle run```
 
+to generate idea project:
+
+```cd myproject && gradle idea```
+
+to generate eclipse project:
+
+```cd myproject && gradle eclipse```
+
 
 Tested on
 ```
