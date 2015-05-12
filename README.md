@@ -1,6 +1,8 @@
 # gradlescript
 Shell script for generating a gradle java project, with a simple css skin. This may serve as a startingpoint when trying JavaFX.
 
+Note: This script might become obsolete depending on the state of [Gradle Build Init Plugin] (https://gradle.org/docs/current/userguide/build_init_plugin.html)
+
 ```Usage: ./gradlescript myproject```
 
 This command will make the directory, initialize gradle with java-library type, add eclipse, and IntelliJ Idea plugins and add a HelloWorld source file with css skin.
