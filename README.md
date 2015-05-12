@@ -20,6 +20,14 @@ to generate eclipse project:
 
 Tested on
 ```
+------------------------------------------------------------
+Gradle 2.3
+------------------------------------------------------------
+
+Build time:   2015-02-16 05:09:33 UTC
+Build number: none
+Revision:     586be72bf6e3df1ee7676d1f2a3afd9157341274
+
 Groovy:       2.3.9
 Ant:          Apache Ant(TM) version 1.9.3 compiled on December 23 2013
 JVM:          1.8.0_45 (Oracle Corporation 25.45-b02)
